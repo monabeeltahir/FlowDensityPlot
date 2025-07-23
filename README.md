@@ -11,4 +11,5 @@ Date: Nov 14, 2023
 Copyright (c) 2023, Muhammad Nabeel Tahir.
 
 Requires MATLAB Machine Learning Toolbox.
+
 <img width="949" height="706" alt="Image" src="https://github.com/user-attachments/assets/aaf8d48f-5a8c-4ddd-8673-4d6d8e6daa5d" />
