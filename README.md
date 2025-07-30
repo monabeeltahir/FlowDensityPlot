@@ -1,4 +1,4 @@
-## FlowDensityPlot
+# FlowDensityPlot
 A MATLAB GUI to generate the scatter density plots using the fluorescence flow cytometer data FCS files.
   - User can load the FCS file.
   - Select the variables for X and Y axes
